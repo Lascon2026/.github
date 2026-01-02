@@ -52,7 +52,7 @@ Unless otherwise stated, materials are shared for educational and research purpo
 
 ## Contact
 
-For general information about LASCON, please refer to the [official school website]([url](https://sisne.org/en/lascon-x/)) or contact the organisers of the corresponding edition.
+For general information about LASCON, please refer to the [official school website](https://sisne.org/en/lascon-x/) or contact the organisers of the corresponding edition.
 
 ---
 
