@@ -9,7 +9,7 @@ nd methodologies at the time of the 2026 edition.
 
 ## About LASCON
 
-LASCON is an advanced school focused on computational neuroscience, covering topics such as neural modelling, simulation, data analysis, and theoretical approaches to brain function. The school brings together students and lecturers from neuroscience, physics, mathematics, engineering, and related fields.
+LASCON is a summer school focused on computational neuroscience, covering topics such as neural modelling, simulation, data analysis, and theoretical approaches to brain function. The school brings together students and lecturers from neuroscience, physics, mathematics, engineering, and related fields.
 
 ## Repository Structure
 
