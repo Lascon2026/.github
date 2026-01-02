@@ -24,9 +24,19 @@ Please refer to the README of each repository for details and instructions.
 
 ## Software and Compatibility
 
-The software used in LASCON 2016 reflects the tools and versions available at the time. Some repositories may rely on deprecated libraries or older APIs. Running the code on modern systems may require adjustments.
+The software used in LASCON 2016 reflects the tools and versions available at the time. Some repositories may rely on deprecated libraries or older APIs, and running the code on modern systems may require adjustments.
 
-Where possible, notes or workarounds are included in the individual repositories.
+To simplify software setup and improve reproducibility, a virtual machine (VM) image with the LASCON software stack preinstalled is available. This is the recommended way to run the tutorials and example code.
+
+To use the VM, first install VirtualBox:
+https://www.virtualbox.org/wiki/Downloads
+
+Then download the VM image from the Brazilian Research and Education Network (RNP):
+https://filesender.rnp.br/?s=download&token=9df93f05-de2e-4d94-9cca-703b1f160263
+
+The VM is supported on x86_64 systems only. Apple Macs with Apple Silicon processors (M1/M2/M3 and newer) are not supported. Intel or AMD-based machines should work.
+
+Where relevant, additional notes or workarounds are included in individual repositories.
 
 ## Intended Audience
 
@@ -42,7 +52,7 @@ Unless otherwise stated, materials are shared for educational and research purpo
 
 ## Contact
 
-For general information about LASCON, please refer to the official school website or contact the organisers of the corresponding edition.
+For general information about LASCON, please refer to the [official school website]([url](https://sisne.org/en/lascon-x/)) or contact the organisers of the corresponding edition.
 
 ---
 
