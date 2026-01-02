@@ -1,11 +1,11 @@
-<!--# LASCON 2016-->
+<!--# LASCON 2026-->
 <img width="2618" height="1362" alt="logo-denso" src="https://github.com/user-attachments/assets/9b015fe8-aecc-4bab-936a-51ca75d4c7e8" />
 
 
-This GitHub organisation hosts material related to **LASCON 2016** (Latin American School on Computational Neuroscience).
+This GitHub organisation hosts material related to **LASCON 2026** (Latin American School on Computational Neuroscience).
 
 The repositories here include lecture materials, tutorials, example code, and supporting resources used during the school. The content reflects the state of the software a
-nd methodologies at the time of the 2016 edition.
+nd methodologies at the time of the 2026 edition.
 
 ## About LASCON
 
@@ -24,7 +24,7 @@ Please refer to the README of each repository for details and instructions.
 
 ## Software and Compatibility
 
-The software used in LASCON 2016 reflects the tools and versions available at the time. Some repositories may rely on deprecated libraries or older APIs, and running the code on modern systems may require adjustments.
+The software used in LASCON 2026 reflects the tools and versions available at the time. Some repositories may rely on deprecated libraries or older APIs, and running the code on modern systems may require adjustments.
 
 To simplify software setup and improve reproducibility, a virtual machine (VM) image with the LASCON software stack preinstalled is available. This is the recommended way to run the tutorials and example code.
 
@@ -42,7 +42,7 @@ Where relevant, additional notes or workarounds are included in individual repos
 
 This material is primarily intended for:
 
-- Participants of LASCON 2016  
+- Participants of LASCON 2026  
 - Researchers and students interested in computational neuroscience  
 - Anyone looking for historical examples of modelling and simulation workflows used at the school  
 
@@ -56,4 +56,4 @@ For general information about LASCON, please refer to the [official school websi
 
 ---
 
-This organisation serves as an archive of the LASCON 2016 materials and is not actively maintained.
+This organisation serves as an archive of the LASCON 2026 materials and is not actively maintained.
