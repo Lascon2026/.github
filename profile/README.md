@@ -1,8 +1,11 @@
-# LASCON 2016
+<!--# LASCON 2016-->
+<img width="2618" height="1362" alt="logo-denso" src="https://github.com/user-attachments/assets/9b015fe8-aecc-4bab-936a-51ca75d4c7e8" />
+
 
 This GitHub organisation hosts material related to **LASCON 2016** (Latin American School on Computational Neuroscience).
 
-The repositories here include lecture materials, tutorials, example code, and supporting resources used during the school. The content reflects the state of the software and methodologies at the time of the 2016 edition.
+The repositories here include lecture materials, tutorials, example code, and supporting resources used during the school. The content reflects the state of the software a
+nd methodologies at the time of the 2016 edition.
 
 ## About LASCON
 
