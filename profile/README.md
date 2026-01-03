@@ -4,8 +4,7 @@
 
 This GitHub organisation hosts material related to **LASCON 2026** (Latin American School on Computational Neuroscience).
 
-The repositories here include lecture materials, tutorials, example code, and supporting resources used during the school. The content reflects the state of the software a
-nd methodologies at the time of the 2026 edition.
+The repositories here include lecture materials, tutorials, example code, and supporting resources used during the school. The content reflects the state of the software and methodologies at the time of the 2026 edition.
 
 ## About LASCON
 
